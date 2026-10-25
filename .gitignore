@@ -1,0 +1,6 @@
+/storage/*
+!/storage/.htaccess
+!/storage/database-config.example.php
+!/storage/database.sql
+!/storage/infinityfree-database.sql
+/infinityfree-upload/
